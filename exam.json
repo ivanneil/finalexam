@@ -55,11 +55,11 @@
   },
     {
     "id": 211,
-    "name": "House ko",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/bahayko.png",
+    "name": "Boracay, Aklan",
+    "imageUrl": "http://wpcdn.hotelhosting.co/wp-content/uploads/sites/1516/2017/06/Homepage-Slider-2.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.617139,
-    "lng": 120.322961
+    "lat": 11.968023,
+    "lng": 121.924826
   }
 ]
