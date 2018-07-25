@@ -71,5 +71,75 @@
     "price": 1200,
     "lat": 6.254231,
     "lng": 124.727996 
+      
+       },
+    {
+    "id": 989,
+    "name": "Tagaytay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TagaytayCity.jpg/1200px-TagaytayCity.jpg",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 14.127382,
+    "lng": 120.991077   
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
+      
+       },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
   }
 ]
