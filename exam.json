@@ -28,13 +28,12 @@
   },
   {
     "id": 205,
-    "name": "Marand Resort.",
-    "name": "Description may pool po.",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
+    "name": "El Nido Palawan",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/67422.jpg",
     "priceCurrency": "₱",
     "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "lat": 11.192033,
+    "lng": 119.384643  
   },
   {
     "id": 210,
