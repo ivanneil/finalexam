@@ -61,5 +61,15 @@
     "price": 1200,
     "lat": 11.968023,
     "lng": 121.924826
+      
+      },
+    {
+    "id": 111,
+    "name": "Lake Sebu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "priceCurrency": "₱",
+    "price": 1200,
+    "lat": 6.254231,
+    "lng": 124.727996 
   }
 ]
