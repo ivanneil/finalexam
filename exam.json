@@ -141,5 +141,15 @@
     "price": 1200,
     "lat": 11.932909,
     "lng":  125.038740  
+      
+       },
+    {
+    "id": 982,
+    "name": "Bangar La union",
+    "imageUrl": "http://mw2.google.com/mw-panoramio/photos/medium/47369345.jpg",
+    "priceCurrency": "₱",
+    "km": 1200,
+    "lat": 16.894193,
+    "lng":  120.422886   
   }
 ]
