@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
+    "name": " Cebu City",
+    "imageUrl": "http://1.bp.blogspot.com/-LixbDQi886w/VBMlGhFqSXI/AAAAAAAAAq4/4ApTGrQHUvk/s1600/cebu-city.jpg",
     "priceCurrency": "PHP",
     "price": 150,
-    "lat": 16.3188,
-    "lng": 120.4687
+    "lat": 10.334177,
+    "lng": 123.907747
   },
   {
     "id": 211,
