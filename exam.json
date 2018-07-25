@@ -84,33 +84,33 @@
       
        },
     {
-    "id": 111,
-    "name": "Lake Sebu",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "id": 988,
+    "name": "Vigan",
+    "imageUrl": "https://waytogo.cebupacificair.com/wp-content/uploads/2016/01/vigan-F.jpg",
     "priceCurrency": "₱",
     "price": 1200,
-    "lat": 6.254231,
-    "lng": 124.727996 
+    "lat": 17.573822,
+    "lng": 120.389867   
       
        },
     {
-    "id": 111,
-    "name": "Lake Sebu",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "id": 987,
+    "name": "Siquijor",
+    "imageUrl": "http://www.gotmarked.com/wp-content/uploads/Siquijor-min-1-1200x899.jpg",
     "priceCurrency": "₱",
     "price": 1200,
-    "lat": 6.254231,
-    "lng": 124.727996 
+    "lat":  9.145297,
+    "lng": 123.624859 
       
        },
     {
-    "id": 111,
-    "name": "Lake Sebu",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lake_Sebu_%28from_Punta_Isla%29.JPG/240px-Lake_Sebu_%28from_Punta_Isla%29.JPG",
+    "id": 986,
+    "name": "Catanduanes",
+    "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s5576b5a5c14d1243/image/idbc0f0dac3458da5/version/1493105702/catanduanes-tourism-guide-bicol-philippines-nathan-allen-via-idreamedofthis.jpg",
     "priceCurrency": "₱",
     "price": 1200,
-    "lat": 6.254231,
-    "lng": 124.727996 
+    "lat": 13.888778,
+    "lng": 124.155045   
       
        },
     {
